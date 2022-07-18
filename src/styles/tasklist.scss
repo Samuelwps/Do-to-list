@@ -111,7 +111,7 @@ section.task-list {
                 }
 
                 & ~ .checkmark:after {
-                  display: block;
+                  display: flex;
                 }
               } 
             }
